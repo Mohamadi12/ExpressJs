@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "mon checkpoint 1",
+  "main": "service.js",
+  "scripts": {
+    "test": "no",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js",
+    "route",
+    "middelware",
+    "public",
+    "dirname"
+  ],
+  "author": "mohamadi nana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
